@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="600" height="150">
+  <rect width="600" height="150" rx="20" fill="#0D1B2A" stroke="#10B981" stroke-width="3"/>
+  <text x="300" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1.5">ChronoRetraite</text>
+  <text x="300" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#10B981" text-anchor="middle" letter-spacing="1">Anticipez aujourd’hui, profitez demain</text>
+  <circle cx="80" cy="75" r="35" fill="none" stroke="white" stroke-width="3"/>
+  <text x="80" y="88" font-family="Arial" font-size="32" fill="white" text-anchor="middle">⏱️</text>
+</svg>
